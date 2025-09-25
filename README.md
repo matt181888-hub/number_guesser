@@ -21,7 +21,16 @@ Requirements
 
 - Python 3.x
 
+---
+Project Page URL
+
+https://roadmap.sh/projects/number-guessing-game
+
+---
+
 Run the Game
 
 ```bash
 python number_guesser_function.py
+
+
